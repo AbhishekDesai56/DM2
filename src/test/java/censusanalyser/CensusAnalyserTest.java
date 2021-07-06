@@ -69,5 +69,4 @@ public class CensusAnalyserTest {
             Assert.assertNotEquals(CensusAnalyserException.ExceptionType.CENSUS_HEADER_PROBLEM, e.type);
         }
     }
-
 }
